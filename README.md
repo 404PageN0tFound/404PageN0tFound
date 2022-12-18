@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @404PageN0tFound
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to live because I'm not alive
+- 🌱 I’m currently learning how to live because I'm feeling like I am dead
 
 <!---
 404PageN0tFound/404PageN0tFound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
