@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @404PageN0tFound
 - 👀 I’m interested in coding
 - ❌ Nothing other to say here
+[![](https://visitcount.itsvg.in/api?id=404PageN0tFound&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!---
 404PageN0tFound/404PageN0tFound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
