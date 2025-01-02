@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @404PageN0tFound
 - 👀 I’m interested in coding
+- 🌐 I'm a Web Developer
+- 👉 Check out [Modu](https://cyteon.tech/modu)
 - ❌ Nothing other to say here
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404PageN0tFound&layout=compact&theme=radical">
