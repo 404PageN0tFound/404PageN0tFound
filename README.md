@@ -8,6 +8,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404PageN0tFound&layout=compact&theme=radical">
   <br>
+  <br>
   <a href="https://discord.com/users/1025837207229046928" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1025837207229046928?theme=dark&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...&showDisplayName=true&animatedDecoration=:bool" alt="Discord Presence">
   </a>
