@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @404PageN0tFound
 - 👀 I’m interested in coding
 - 🌐 I'm a Web Developer
-- 👉 Check out [Modu](https://cyteon.tech/modu)
+- 👉 Check out [Modu](https://cyteon.tech/modu) and [LearnModu](https://learnmodu.github.io) 👈
 - ❌ Nothing other to say here
 ---
 <p align="center">
