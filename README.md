@@ -5,7 +5,7 @@
 - ❌ Nothing other to say here
 ---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404PageN0tFound&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404PageN0tFound&layout=compact&theme=radical&langs_count=20">
   <br>
   <br>
   <a href="https://discord.com/users/1025837207229046928" target="_blank">
