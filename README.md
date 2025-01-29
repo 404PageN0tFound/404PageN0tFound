@@ -14,7 +14,7 @@
 </p>
 <br>
 <br>
-[![](https://visitcount.itsvg.in/api?id=404PageN0tFound&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=404PageN0tFound&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
 
 <!---
 404PageN0tFound/404PageN0tFound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
