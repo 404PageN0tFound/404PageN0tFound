@@ -4,8 +4,8 @@
 - 👉 Check out [Modu](https://cyteon.tech/modu) and [LearnModu](https://learnmodu.github.io) 👈
 - ❌ Nothing other to say here
 ---
+![404pagen0tfound](https://komarev.com/ghpvc/?username=404pagen0tfound)
 <p align="center">
-  ![404pagen0tfound](https://komarev.com/ghpvc/?username=404pagen0tfound)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404PageN0tFound&layout=compact&theme=radical&langs_count=20">
   <br>
   <br>
